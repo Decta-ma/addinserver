@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|c:\\users\\dectato\\documents\\code\\c#\\serverwordaddin\\serverwordaddin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\ribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\ribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\actioninterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\actioninterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\formdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\formdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\serverwordaddin\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A2577F-C039-4857-A822-B4E9F106D8C1}|ServerWordAddIn\\ServerWordAddIn.csproj|solutionrelative:serverwordaddin\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ribbon.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Ribbon.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\Ribbon.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Ribbon.cs",
+              "RelativeToolTip": "ServerWordAddIn\\Ribbon.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:27:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ActionInterpreter.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\ActionInterpreter.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ActionInterpreter.cs",
+              "RelativeToolTip": "ServerWordAddIn\\ActionInterpreter.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:27:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDialog.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\FormDialog.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\FormDialog.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\FormDialog.cs",
+              "RelativeToolTip": "ServerWordAddIn\\FormDialog.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:27:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ApiClient.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ApiClient.cs",
+              "RelativeToolTip": "ServerWordAddIn\\ApiClient.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:14:46.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Models.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\Models.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Models.cs",
+              "RelativeToolTip": "ServerWordAddIn\\Models.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:14:28.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Settings.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\Settings.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\Settings.cs",
+              "RelativeToolTip": "ServerWordAddIn\\Settings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:14:05.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\App.config",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\App.config",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\App.config",
+              "RelativeToolTip": "ServerWordAddIn\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-05T06:13:12.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "ServerWordAddIn\\ThisAddIn.cs",
+              "ToolTip": "C:\\Users\\dectato\\Documents\\Code\\C#\\ServerWordAddIn\\ServerWordAddIn\\ThisAddIn.cs",
+              "RelativeToolTip": "ServerWordAddIn\\ThisAddIn.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:59:25.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
